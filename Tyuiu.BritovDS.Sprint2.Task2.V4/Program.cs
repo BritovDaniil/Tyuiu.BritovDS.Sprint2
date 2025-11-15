@@ -11,7 +11,7 @@ namespace Tyuiu.BritovDS.Sprint2.Task2.V4
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #2                                                                ");
             Console.WriteLine("* Тема: Организация ввода вывода в консольных приложениях                  ");
-            Console.WriteLine("* Задание #2                                                               ");
+            Console.WriteLine("* Задание #2                                                               "); 
             Console.WriteLine("* Вариант #24                                                              ");
             Console.WriteLine("* Выполнил: Бритов Д. С. | ИСПб 25-1                                       ");
             Console.WriteLine("***************************************************************************");
